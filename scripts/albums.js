@@ -29,3 +29,18 @@
          { title: 'Wrong phone number', duration: '2:15'}
      ]
  };
+
+ var albumRadiohead = {
+     title: 'A Moon Shaped Pool',
+     artist: 'Radiohead',
+     label: 'XL Recordings',
+     year: '2006',
+     albumArtUrl: 'assets/images/album_covers/moonshapedpool.png',
+     songs: [
+         { title: 'Burn the Witch', duration: '4:04' },
+         { title: 'DayDreaming', duration: '3:05' },
+         { title: 'Decks Dark', duration: '3:21'},
+         { title: 'Desert Island Disk', duration: '3:14' },
+         { title: 'Ful Stop', duration: '2:15'}
+     ]
+ };
